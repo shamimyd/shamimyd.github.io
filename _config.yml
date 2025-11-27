@@ -16,11 +16,11 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US" 
-title                    : "shamim_yadegari 1"
-title_separator          : "-"
-name                     : "Poorang" 
-description              : "Welcome to my web site."
+locale                   : "Tehran" 
+title                    : "shamim_yadegari"
+title_separator          : "*"
+name                     : "shyd" 
+# description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,12 +83,12 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : sauleh_e
-facebook:
-  username               : sauleh.eetemadi
-  app_id                 :
-  publisher              :
+# twitter:
+#   username               : sauleh_e
+# facebook:
+#   username               : sauleh.eetemadi
+#   app_id                 :
+#   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -107,60 +107,60 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
-  location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: 
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  name             : "shamimyd"
+  avatar           : "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffa.nody.ir%2Ftag%2F%25D8%25B9%25DA%25A9%25D8%25B3-%25DA%25AF%25D9%2584-%25D9%2584%25DB%258C%25D9%2584%25DB%258C%25D9%2588%25D9%2585-%25D8%25B4%25DB%258C%25D9%25BE%25D9%2588%25D8%25B1%25DB%258C%2F&psig=AOvVaw1m8zgw52qmqnLizwoMj2mS&ust=1764318323426000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJC7n4v0kZEDFQAAAAAdAAAAABAE"
+  bio              : Computer Engineering student (IUST)
+  location         : "Tehran"
+  email            : shamimyd782@gmail.com
+  # twitter: sauleh_e
+  # linkedin: 
+  # google_scholar: Q25s5KkAAAAJ
+  github: shamimyd
+  instagram: shamimyd___
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+      url: shamimyd782@gmail.com
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://shamimyd.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/shamimyd___"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/shamimyd"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://shamimyd.github.io"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/shamimyd___"
 
 
 # Reading Files
