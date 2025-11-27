@@ -149,18 +149,18 @@ footer:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://shamimyd.github.io"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://shamimyd.github.io"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
       # url:
     # - label: "Bitbucket"
     #   icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/shamimyd___"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/shamimyd___"
 
 
 # Reading Files
