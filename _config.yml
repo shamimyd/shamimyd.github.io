@@ -118,9 +118,9 @@ author:
   github: shamimyd
   instagram: shamimyd___
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: shamimyd782@gmail.com
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: shamimyd782@gmail.com
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,12 +130,12 @@ author:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://shamimyd.github.io"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/shamimyd___"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://shamimyd.github.io"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/shamimyd___"
     - label: "Telegram"
       icon: "fab fa-telegram"
       url: "http://t.me/shamimyd"
@@ -151,7 +151,7 @@ footer:
       # url:
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
-    #   url: "https://shamimyd.github.io"
+    #   url: "lahhff"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
       # url:
@@ -160,7 +160,7 @@ footer:
       # url:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/shamimyd___"
+    #   url: "efhslf"
 
 
 # Reading Files
