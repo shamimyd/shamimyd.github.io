@@ -15,7 +15,7 @@ werwe
 rwe -->
 
 ## Tehran
-IUST
+I am computer engineering student in IUST.
 
 <!-- ### Azadi
 ### Enghelab -->
@@ -26,8 +26,8 @@ IUST
 <!-- My favorite website is [yahoo](http://www.yahoo.com). -->
 
 
-## Mashhad
-I was born in Mashhad
+<!-- ## Mashhad
+I was born in Mashhad -->
 
 <!-- ![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg) -->
 
