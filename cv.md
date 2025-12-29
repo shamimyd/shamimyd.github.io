@@ -15,7 +15,7 @@ werwe
 rwe -->
 
 ## Tehran
-I am computer engineering student in IUST.
+I am a computer engineering student in IUST.
 
 <!-- ### Azadi
 ### Enghelab -->
