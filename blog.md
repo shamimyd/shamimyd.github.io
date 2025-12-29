@@ -1,5 +1,5 @@
 ---
-layout: posts
+# layout: posts
 author_profile: true
 permalink: /blog/
 title: Blog Posts
