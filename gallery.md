@@ -29,5 +29,5 @@ gallery:
 #     title: "Image 5 title caption"    
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="This is a sample gallery with **Shamim support**." %}
 
