@@ -14,7 +14,7 @@ comments: false
 werwe
 rwe -->
 
-## Tehran
+## University
 I am a computer engineering student in IUST.
 
 <!-- ### Azadi
