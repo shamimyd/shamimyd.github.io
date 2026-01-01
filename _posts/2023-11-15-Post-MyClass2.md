@@ -7,7 +7,7 @@ title: My first drawing with Python
 - I used turtle module.
 
 
-# this is a header
+# This is a my drawing
 
 <iframe width="300" height="315" src="/assets/images/image2.png" title="Drawing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
