@@ -9,7 +9,10 @@ comments: false
 ---
 
 
-* [youtube](http://www.youtube.com/)
+* [Youtube](https://www.youtube.com/)
+* [Film](https://www.netflix.com/)
+* [Book](https://freebookspot.org/)
+* [Podcast](https://castbox.fm/)
 <!-- * [](http://www.youtube.com/) -->
 
 
